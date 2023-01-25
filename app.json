@@ -13,26 +13,26 @@
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
-            "value": "", 
+            "value": "14332493", 
             "required": false
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
-            "value": "",
+            "value": "7ca1c167f4ea7557f3b4226b32e7cb29",
             "required": false
         },
         "SESSION": {
             "description": "Your session string. Can be added now, or after deploy. (The bot will NOT work without a session string!!)",
-            "value": ""
+            "value": "1BVtsOKcBu7ctAbm7-Jk2WOzura5SEFxI8MaFahlhUNQleMsI8ygIq4qtWYjr2c4EQRb1Xt_Vl4d5Sjzhe1-f1_5ujmpphpzPGSc5P1Sr_52o-UAcYdkI15uqdFshoH_EHFWSl1rzhvtl4nD51rajg0DDifFxndRa40tLmdChfDNchh-e47yNJJnCy-luyfzsbcnOf41NynU5wjKbht4PjrzkUz2H8C3PRtWLckAHoUXUKopPJHSgGgBD0vQTJCOoJ8Gz9vjyERQmVJYL1VThlHk17-JfjhsXmm557sNsp3Z4IMP1gsJFM0ZsgsIQkKu3_XlAVgcTR1-dTs6ERZpt-8h0TvLGi7o="
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
-            "value": "",
+            "value": "https://redis-19855.c299.asia-northeast1-1.gce.cloud.redislabs.com:19855/",
             "required": false
         },
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
-            "value": "",
+            "value": "lfhQ8avK3Jpnp93N1tFzPQMXa0yDsFPE",
             "required": false
         },
         "BRANCH": {
